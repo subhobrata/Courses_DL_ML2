@@ -10,6 +10,8 @@ https://www.programmersought.com/article/85047145086/
 https://www.sharpestminds.com/landing-a-data-job-the-course
 https://github.com/mmckerns/tutmom
 https://www.youtube.com/c/AIPursuit/playlists
+https://www.kaggle.com/raywilliam/customer-churn-prediction-xgboost-hyperbandcv
+
 
 # http://graphics.stanford.edu/courses/cs205a/
 https://www.youtube.com/playlist?list=PLlASSih11GgEmcOzRTtdepbB1y3NuYhAf
