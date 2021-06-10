@@ -9,7 +9,9 @@ https://www.youtube.com/playlist?list=PLlASSih11GgEmcOzRTtdepbB1y3NuYhAf
 # Deep Learning for Natural Language Processing - Lectures 2021
 https://github.com/dl4nlp-tuda2021/deep-learning-for-nlp-lectures
 
-
+# Gautam Kamath
+https://www.youtube.com/c/GautamKamath/playlists
+http://www.gautamkamath.com/courses/CS480-sp2021.html
 
 
 # Matrix Linear Algebra
