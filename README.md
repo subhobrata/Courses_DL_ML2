@@ -1,6 +1,7 @@
 # Courses_DL_ML2
 https://www.youtube.com/channel/UCvVJOQm0jtJd9M32yX_-ImA/playlists
 https://github.com/ThinamXx/300Days__MachineLearningDeepLearning
+https://github.com/kouya-marino/AppliedMachineLearningCourse
 
 # http://graphics.stanford.edu/courses/cs205a/
 https://www.youtube.com/playlist?list=PLlASSih11GgEmcOzRTtdepbB1y3NuYhAf
