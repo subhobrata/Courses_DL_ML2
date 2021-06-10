@@ -7,6 +7,7 @@ https://github.com/bentrevett/machine-learning-courses
 https://github.com/lexsalenko/7bits_ml_ds_courses_2020_2021
 https://www.programmersought.com/article/85047145086/
 https://www.sharpestminds.com/landing-a-data-job-the-course
+https://github.com/mmckerns/tutmom
 
 # http://graphics.stanford.edu/courses/cs205a/
 https://www.youtube.com/playlist?list=PLlASSih11GgEmcOzRTtdepbB1y3NuYhAf
