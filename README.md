@@ -1,4 +1,5 @@
 # Courses_DL_ML2
+https://drivendata.github.io/cookiecutter-data-science/#directory-structure
 https://www.youtube.com/channel/UCvVJOQm0jtJd9M32yX_-ImA/playlists
 https://github.com/ThinamXx/300Days__MachineLearningDeepLearning
 https://github.com/kouya-marino/AppliedMachineLearningCourse
