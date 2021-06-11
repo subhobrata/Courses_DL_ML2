@@ -1,4 +1,6 @@
 # Courses_DL_ML2
+https://www.youtube.com/channel/UCLaw3azZFT3Fyg3nmY-1g_w/videos
+https://slideslive.com/iclr-2021
 https://drivendata.github.io/cookiecutter-data-science/#directory-structure
 https://www.youtube.com/channel/UCvVJOQm0jtJd9M32yX_-ImA/playlists
 https://github.com/ThinamXx/300Days__MachineLearningDeepLearning
