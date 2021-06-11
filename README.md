@@ -18,6 +18,7 @@ https://www.youtube.com/c/VenelinValkovBG/videos
 
 # Applied Deep Learning Maziar Raissi
 https://github.com/maziarraissi/Applied-Deep-Learning
+https://www.youtube.com/channel/UCxEiGqJ2e-Mg9oQMjVv6poQ/playlists
 
 # http://graphics.stanford.edu/courses/cs205a/
 https://www.youtube.com/playlist?list=PLlASSih11GgEmcOzRTtdepbB1y3NuYhAf
