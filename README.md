@@ -1,4 +1,5 @@
 # Courses_DL_ML2
+https://github.com/towardsai/tutorials
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 https://www.youtube.com/channel/UCLaw3azZFT3Fyg3nmY-1g_w/videos
 https://slideslive.com/iclr-2021
