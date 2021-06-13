@@ -17,6 +17,9 @@ https://www.youtube.com/c/AIPursuit/playlists
 https://www.kaggle.com/raywilliam/customer-churn-prediction-xgboost-hyperbandcv
 https://www.youtube.com/c/VenelinValkovBG/videos
 https://github.com/ezgisubasi?tab=repositories
+https://www.youtube.com/c/RaunakJoshi/videos
+https://www.youtube.com/c/JCharisTechJSecur1ty/playlists
+https://www.youtube.com/playlist?list=PLPzPzlIi2HStJb6PFjzh_jps9Mm7k_Zl2
 
 # Applied Deep Learning Maziar Raissi
 https://github.com/maziarraissi/Applied-Deep-Learning
