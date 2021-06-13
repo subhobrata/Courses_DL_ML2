@@ -1,4 +1,6 @@
 # Courses_DL_ML2
+
+https://www.youtube.com/c/inzvateam/playlists
 http://cs229.stanford.edu/syllabus-summer2020.html
 https://github.com/towardsai/tutorials
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
