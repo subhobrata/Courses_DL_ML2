@@ -1,4 +1,5 @@
 # Courses_DL_ML2
+http://cs229.stanford.edu/syllabus-summer2020.html
 https://github.com/towardsai/tutorials
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 https://www.youtube.com/channel/UCLaw3azZFT3Fyg3nmY-1g_w/videos
