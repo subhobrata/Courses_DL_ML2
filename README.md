@@ -20,6 +20,8 @@ https://github.com/ezgisubasi?tab=repositories
 https://www.youtube.com/c/RaunakJoshi/videos
 https://www.youtube.com/c/JCharisTechJSecur1ty/playlists
 https://www.youtube.com/playlist?list=PLPzPzlIi2HStJb6PFjzh_jps9Mm7k_Zl2
+https://www.youtube.com/c/DrDataScience/videos
+https://www.youtube.com/c/PyConUS/playlists
 
 # Applied Deep Learning Maziar Raissi
 https://github.com/maziarraissi/Applied-Deep-Learning
