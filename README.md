@@ -1,5 +1,6 @@
 # Courses_DL_ML2
 
+https://www.youtube.com/channel/UCBLCEnq2lvySZ9e6eJPmESg/playlists
 http://www.lib4dev.in/info/Wrosinski/MachineLearning_ResourcesCompilation/87926365
 https://www.youtube.com/c/inzvateam/playlists
 http://cs229.stanford.edu/syllabus-summer2020.html
