@@ -27,6 +27,10 @@ https://www.youtube.com/playlist?list=PLPzPzlIi2HStJb6PFjzh_jps9Mm7k_Zl2
 https://www.youtube.com/c/DrDataScience/videos
 https://www.youtube.com/c/PyConUS/playlists
 
+# First Principles of Computer Vision
+https://fpcv.cs.columbia.edu/
+https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/playlists
+
 # Applied Deep Learning Maziar Raissi
 https://github.com/maziarraissi/Applied-Deep-Learning
 https://www.youtube.com/channel/UCxEiGqJ2e-Mg9oQMjVv6poQ/playlists
