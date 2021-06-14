@@ -31,6 +31,10 @@ https://www.youtube.com/c/PyConUS/playlists
 https://fpcv.cs.columbia.edu/
 https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/playlists
 
+# RE605 Courses
+https://github.com/RE605-Computer-Vision/re605-notebooks
+https://www.youtube.com/user/ekorudiawan/playlists
+
 # Applied Deep Learning Maziar Raissi
 https://github.com/maziarraissi/Applied-Deep-Learning
 https://www.youtube.com/channel/UCxEiGqJ2e-Mg9oQMjVv6poQ/playlists
