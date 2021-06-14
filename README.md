@@ -27,6 +27,9 @@ https://www.youtube.com/playlist?list=PLPzPzlIi2HStJb6PFjzh_jps9Mm7k_Zl2
 https://www.youtube.com/c/DrDataScience/videos
 https://www.youtube.com/c/PyConUS/playlists
 
+# Joseph Ledet
+https://www.youtube.com/user/geauxjesus/playlists
+
 # First Principles of Computer Vision
 https://fpcv.cs.columbia.edu/
 https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/playlists
