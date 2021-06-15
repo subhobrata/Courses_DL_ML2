@@ -1,5 +1,6 @@
 # Courses_DL_ML2
 
+https://www.youtube.com/channel/UC3cvRkdfO-76JKosmx1tiXw/playlists
 https://www.youtube.com/channel/UCPh1Mt7vcYSU5CIxNMVgqAw/videos
 https://www.youtube.com/channel/UCBLCEnq2lvySZ9e6eJPmESg/playlists
 http://www.lib4dev.in/info/Wrosinski/MachineLearning_ResourcesCompilation/87926365
