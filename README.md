@@ -1,5 +1,9 @@
 # Courses_DL_ML2
 
+# 40 days AI Steve Nouri
+https://github.com/Gautam-J/Machine-Learning
+https://www.linkedin.com/pulse/40-days-ai-steve-nouri/
+
 # Mr. P Solver
 https://www.youtube.com/channel/UCKaYxkHrmsQePZFpzF9b7sQ/videos
 
