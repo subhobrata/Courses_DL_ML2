@@ -3,6 +3,12 @@
 # Repository for code and materials for the Galvanize DSI Premium Prep
 https://github.com/GalvanizeOpenSource/dsi-premium-prep
 
+# CS230 Deep Learning
+https://github.com/cs230-stanford
+
+# Bevin Maultsby
+https://www.youtube.com/channel/UC8f9bYFaaVZLXK-naQxcd5A/playlists
+
 # 40 days AI Steve Nouri
 https://github.com/Gautam-J/Machine-Learning
 https://www.linkedin.com/pulse/40-days-ai-steve-nouri/
