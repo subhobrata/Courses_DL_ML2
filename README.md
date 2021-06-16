@@ -1,5 +1,8 @@
 # Courses_DL_ML2
 
+# Repository for code and materials for the Galvanize DSI Premium Prep
+https://github.com/GalvanizeOpenSource/dsi-premium-prep
+
 # 40 days AI Steve Nouri
 https://github.com/Gautam-J/Machine-Learning
 https://www.linkedin.com/pulse/40-days-ai-steve-nouri/
