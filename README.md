@@ -1,5 +1,8 @@
 # Courses_DL_ML2
 
+# HKU Faculty of Science
+https://www.youtube.com/c/HKUFacultyofScience/videos
+
 # Young Wu
 https://www.youtube.com/c/YoungWu1101/playlists
 
