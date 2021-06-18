@@ -3,6 +3,9 @@
 # Repository for code and materials for the Galvanize DSI Premium Prep
 https://github.com/GalvanizeOpenSource/dsi-premium-prep
 
+# Computer Vision
+https://www.youtube.com/channel/UCve3f4K58QJCJKablS2VaCg
+
 # CS230 Deep Learning
 https://github.com/cs230-stanford
 
