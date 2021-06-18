@@ -23,6 +23,7 @@ https://www.youtube.com/channel/UCBLCEnq2lvySZ9e6eJPmESg/playlists
 http://www.lib4dev.in/info/Wrosinski/MachineLearning_ResourcesCompilation/87926365
 https://www.youtube.com/c/inzvateam/playlists
 http://cs229.stanford.edu/syllabus-summer2020.html
+https://www.youtube.com/c/LearnDataScience/videos
 https://github.com/towardsai/tutorials
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 https://www.youtube.com/channel/UCLaw3azZFT3Fyg3nmY-1g_w/videos
