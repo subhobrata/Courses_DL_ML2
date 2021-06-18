@@ -1,5 +1,9 @@
 # Courses_DL_ML2
 
+# Shusen Wang
+https://www.youtube.com/c/ShusenWangEng/playlists
+http://wangshusen.github.io/teaching.html
+
 # Repository for code and materials for the Galvanize DSI Premium Prep
 https://github.com/GalvanizeOpenSource/dsi-premium-prep
 
