@@ -1,5 +1,8 @@
 # Courses_DL_ML2
 
+# Young Wu
+https://www.youtube.com/c/YoungWu1101/playlists
+
 # Shusen Wang
 https://www.youtube.com/c/ShusenWangEng/playlists
 http://wangshusen.github.io/teaching.html
