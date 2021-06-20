@@ -31,6 +31,7 @@ https://www.linkedin.com/pulse/40-days-ai-steve-nouri/
 https://www.youtube.com/channel/UCKaYxkHrmsQePZFpzF9b7sQ/videos
 
 # Important Links
+https://www.youtube.com/channel/UCvfUFYIYTbTgxKQNGc2zoqQ/videos
 https://github.com/rougier/scientific-visualization-book
 https://www.youtube.com/channel/UCQSMCVUX1HgrwxJhO_7VrJQ/videos
 https://www.youtube.com/channel/UC3cvRkdfO-76JKosmx1tiXw/playlists
