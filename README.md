@@ -1,4 +1,6 @@
 # Courses_DL_ML2
+https://www.appliednlpbook.com/
+https://github.com/nlpbook/nlpbook
 https://livebook.manning.com/book/grokking-machine-learning/welcome/v-14/
 https://github.com/khangich/machine-learning-interview
 https://github.com/probml/pyprobml
@@ -72,6 +74,7 @@ https://www.youtube.com/c/JCharisTechJSecur1ty/playlists
 https://www.youtube.com/playlist?list=PLPzPzlIi2HStJb6PFjzh_jps9Mm7k_Zl2
 https://www.youtube.com/c/DrDataScience/videos
 https://www.youtube.com/c/PyConUS/playlists
+
 
 # Joseph Ledet
 https://www.youtube.com/user/geauxjesus/playlists
