@@ -1,5 +1,8 @@
 # Courses_DL_ML2
+https://livebook.manning.com/book/grokking-machine-learning/welcome/v-14/
 https://github.com/khangich/machine-learning-interview
+https://github.com/probml/pyprobml
+https://energy-based-models.github.io/
 
 # HKU Faculty of Science
 https://www.youtube.com/c/HKUFacultyofScience/videos
@@ -31,6 +34,8 @@ https://www.linkedin.com/pulse/40-days-ai-steve-nouri/
 https://www.youtube.com/channel/UCKaYxkHrmsQePZFpzF9b7sQ/videos
 
 # Important Links
+https://github.com/shreyansh26/ML-Optimizers-JAX
+https://sites.google.com/view/rcv-cvpr2021/schedule?authuser=0
 https://www.youtube.com/channel/UCvfUFYIYTbTgxKQNGc2zoqQ/videos
 https://github.com/rougier/scientific-visualization-book
 https://www.youtube.com/channel/UCQSMCVUX1HgrwxJhO_7VrJQ/videos
