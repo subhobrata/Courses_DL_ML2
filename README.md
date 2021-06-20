@@ -34,6 +34,7 @@ https://www.linkedin.com/pulse/40-days-ai-steve-nouri/
 https://www.youtube.com/channel/UCKaYxkHrmsQePZFpzF9b7sQ/videos
 
 # Important Links
+https://deep-learning-summer-school.princeton.edu/
 https://github.com/shreyansh26/ML-Optimizers-JAX
 https://sites.google.com/view/rcv-cvpr2021/schedule?authuser=0
 https://www.youtube.com/channel/UCvfUFYIYTbTgxKQNGc2zoqQ/videos
