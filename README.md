@@ -1,4 +1,5 @@
 # Courses_DL_ML2
+https://tiao.io/#about
 https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526
 https://www.appliednlpbook.com/
 https://github.com/nlpbook/nlpbook
