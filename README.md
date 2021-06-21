@@ -1,4 +1,5 @@
 # Courses_DL_ML2
+https://www.youtube.com/channel/UCi1TC2fLRvgBQNe-T4dp8Eg
 https://gidariss.github.io/self-supervised-learning-cvpr2021/
 https://tiao.io/#about
 https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526
