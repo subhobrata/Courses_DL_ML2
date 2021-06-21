@@ -1,7 +1,10 @@
 # Courses_DL_ML2
 
 https://dl4cv.github.io/
+https://www.youtube.com/channel/UCxJShZgxpowZy1xBlbpAnvw/videos
 https://www.youtube.com/playlist?list=PLUgbVHjDharjSSHF1EQq6h8FFp4XEX5AF
+
+# Important links
 https://www.youtube.com/channel/UCi1TC2fLRvgBQNe-T4dp8Eg
 https://gidariss.github.io/self-supervised-learning-cvpr2021/
 https://tiao.io/#about
