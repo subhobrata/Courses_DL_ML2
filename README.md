@@ -1,4 +1,6 @@
 # Courses_DL_ML2
+
+https://www.youtube.com/playlist?list=PLUgbVHjDharjSSHF1EQq6h8FFp4XEX5AF
 https://www.youtube.com/channel/UCi1TC2fLRvgBQNe-T4dp8Eg
 https://gidariss.github.io/self-supervised-learning-cvpr2021/
 https://tiao.io/#about
@@ -9,6 +11,33 @@ https://livebook.manning.com/book/grokking-machine-learning/welcome/v-14/
 https://github.com/khangich/machine-learning-interview
 https://github.com/probml/pyprobml
 https://energy-based-models.github.io/
+
+Some Recent Data Science, Deep Learning and Computer Vision Courses | 2021
+Deep Learning for Computer Vision (DL4CV) by WIAC, Spring 2021
+https://lnkd.in/g4_fscc
+DS-GA 1013/Math-GA 2824: Mathematical Tools for Data Science - Lectures | 2021
+https://lnkd.in/gazA9z2
+Latest Links
+Responsible Computer Vision : IEEE CVPR 2021 Workshop
+https://lnkd.in/gURCCHg
+Affective Understanding in Video: IEEE CVPR 2021 Workshop
+https://lnkd.in/gyjEHKN
+When Image Analysis Meets Natural Language Processing: A Case Study in Radiology: IEEE CVPR 2021 Tutorial
+https://lnkd.in/gVfYFKg
+New Frontiers in Data-Driven Autonomous Driving: IEEE CVPR 2021 Tutorial
+https://lnkd.in/gAaK4Qy
+International Challenge on Activity Recognition (ActivityNet): IEEE CVPR 2021 Workshop
+https://lnkd.in/g2EFB_T
+Medical Computer Vision: IEEE CVPR 2021 Workshop
+https://lnkd.in/giUSYP7
+International Workshop on Dynamic Scene Reconstruction: IEEE CVPR 2021 Workshop
+https://lnkd.in/gFRSQGm
+Workshop on Event-based Vision: IEEE CVPR 2021 Workshop
+https://lnkd.in/gdnNDYs
+New Frontiers in Data-Driven Autonomous Driving: IEEE CVPR 2021 Tutorial
+https://lnkd.in/gAaK4Qy
+Cross-View and Cross-Modal Visual Geo-Localization: IEEE CVPR 2021 Tutorial
+https://lnkd.in/gA-5Bc4
 
 # HKU Faculty of Science
 https://www.youtube.com/c/HKUFacultyofScience/videos
