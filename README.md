@@ -1,5 +1,8 @@
 # Courses_DL_ML2
 
+# Computational Fundamentals of Machine Learning
+https://www.youtube.com/playlist?list=PL9yVi_lsKjkMIZVPgdeN84DmKwb_A6mdA
+
 https://www.youtube.com/watch?v=B-c8tIgchu0
 https://github.com/slundberg/shap
 
