@@ -1,5 +1,8 @@
 # Courses_DL_ML2
 
+https://harvard-iacs.github.io/2021-CS109B/
+https://github.com/Harvard-IACS/2021-CS109B/tree/master/content/lectures
+
 # Computational Fundamentals of Machine Learning
 https://www.youtube.com/playlist?list=PL9yVi_lsKjkMIZVPgdeN84DmKwb_A6mdA
 
