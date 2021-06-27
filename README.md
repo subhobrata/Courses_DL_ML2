@@ -1,5 +1,12 @@
 # Courses_DL_ML2
 
+https://explainml-tutorial.github.io/neurips20
+https://explainml-tutorial.github.io/aaai21
+https://www.youtube.com/watch?v=K6-ujR_67eY
+https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit#slide=id.p
+https://www.chilconference.org/tutorial_T04.html
+https://drive.google.com/file/d/1xn2dCDAeEEhB_rex202KxMPqIPj31fZ4/view
+
 https://harvard-iacs.github.io/2021-CS109B/
 https://github.com/Harvard-IACS/2021-CS109B/tree/master/content/lectures
 
