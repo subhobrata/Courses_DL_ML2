@@ -1,5 +1,8 @@
 # Courses_DL_ML2
 
+# Visually Explained
+https://www.youtube.com/c/BachirElKhadir/videos
+
 https://explainml-tutorial.github.io/neurips20
 https://explainml-tutorial.github.io/aaai21
 https://www.youtube.com/watch?v=K6-ujR_67eY
