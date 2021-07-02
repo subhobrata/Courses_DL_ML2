@@ -1,5 +1,7 @@
 # Courses_DL_ML2
 
+https://bytes.swiggy.com/defraudnet-an-end-to-end-weak-supervision-framework-to-detect-fraud-in-online-food-delivery-22366ddce461
+
 # Visually Explained
 https://www.youtube.com/c/BachirElKhadir/videos
 
