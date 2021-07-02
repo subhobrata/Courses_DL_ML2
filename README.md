@@ -1,4 +1,6 @@
 # Courses_DL_ML2
+https://introduction-to-machine-learning.netlify.app/
+https://www.youtube.com/channel/UCr4ZcPk0siqHBISY-OzFotQ/videos
 
 https://bytes.swiggy.com/defraudnet-an-end-to-end-weak-supervision-framework-to-detect-fraud-in-online-food-delivery-22366ddce461
 
