@@ -1,4 +1,5 @@
 # Courses_DL_ML2
+https://github.com/microsoft/ML-For-Beginners
 
 # Ken Jee
 https://www.linkedin.com/feed/update/urn:li:activity:6816565927413465089/
