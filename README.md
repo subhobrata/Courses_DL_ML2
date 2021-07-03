@@ -1,4 +1,8 @@
 # Courses_DL_ML2
+
+# Ken Jee
+https://www.linkedin.com/feed/update/urn:li:activity:6816565927413465089/
+
 https://introduction-to-machine-learning.netlify.app/
 https://www.youtube.com/channel/UCr4ZcPk0siqHBISY-OzFotQ/videos
 
