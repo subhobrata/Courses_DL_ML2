@@ -2,6 +2,9 @@
 https://introduction-to-machine-learning.netlify.app/
 https://www.youtube.com/channel/UCr4ZcPk0siqHBISY-OzFotQ/videos
 
+# Workshops UTS
+https://www.youtube.com/channel/UC0iq94yF1mPz0H36tYnbHIA/videos
+
 https://bytes.swiggy.com/defraudnet-an-end-to-end-weak-supervision-framework-to-detect-fraud-in-online-food-delivery-22366ddce461
 
 # Visually Explained
