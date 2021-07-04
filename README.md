@@ -1,5 +1,6 @@
 # Courses_DL_ML2
 https://github.com/microsoft/ML-For-Beginners
+https://tomaszgolan.github.io/introduction_to_machine_learning/markdown/introduction_to_machine_learning_01_knn/introduction_to_machine_learning_01_knn/
 
 # Ken Jee
 https://www.linkedin.com/feed/update/urn:li:activity:6816565927413465089/
