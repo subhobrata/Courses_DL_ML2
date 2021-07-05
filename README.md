@@ -1,4 +1,5 @@
 # Courses_DL_ML2
+https://www.youtube.com/watch?v=E7VLE-U07x0
 https://www.youtube.com/playlist?list=PL8P_Z6C4GcuXrj9crYtU_XaYh3Jac4x0p
 https://github.com/donnemartin/data-science-ipython-notebooks
 https://github.com/microsoft/ML-For-Beginners
