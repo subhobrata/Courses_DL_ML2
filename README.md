@@ -1,4 +1,6 @@
 # Courses_DL_ML2
+https://github.com/telmo-correa/all-of-statistics
+https://github.com/shashank88/system_design
 https://github.com/ashishpatel26/Amazing-Feature-Engineering
 https://www.youtube.com/watch?v=E7VLE-U07x0
 https://www.youtube.com/playlist?list=PL8P_Z6C4GcuXrj9crYtU_XaYh3Jac4x0p
