@@ -1,5 +1,6 @@
 # Courses_DL_ML2
 
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 https://www.theaicore.com/
 https://www.youtube.com/channel/UCbPDqVPqfu_VyNiy7v1YSgg/videos
 
