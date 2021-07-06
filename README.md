@@ -1,4 +1,9 @@
 # Courses_DL_ML2
+
+https://www.theaicore.com/
+https://www.youtube.com/channel/UCbPDqVPqfu_VyNiy7v1YSgg/videos
+
+
 https://harvard-iacs.github.io/2020-CS109A/
 https://www.youtube.com/c/LeonidZhukov/playlists
 http://www.leonidzhukov.net/hse/2020/datascience/
