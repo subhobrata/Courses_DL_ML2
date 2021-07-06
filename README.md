@@ -4,6 +4,9 @@
 https://www.youtube.com/channel/UCNDElcuuyX-2pSatVBDpJJQ/videos
 https://github.com/PJalgotrader/ML-USU-SP21/tree/main/Classes/Class%2019-%20Decision%20Tree%20(Python)
 
+# Karim Pichara - Data Science
+https://www.youtube.com/channel/UCpAja5BGZbIkiq2bRfUtA8g/playlists
+
 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 https://www.theaicore.com/
 https://www.youtube.com/channel/UCbPDqVPqfu_VyNiy7v1YSgg/videos
