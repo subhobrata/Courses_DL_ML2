@@ -24,6 +24,9 @@ https://bytes.swiggy.com/defraudnet-an-end-to-end-weak-supervision-framework-to-
 # Visually Explained
 https://www.youtube.com/c/BachirElKhadir/videos
 
+# Erfan Salavati
+https://www.youtube.com/channel/UCqj-DxbpCp9N5XyfUxRbXKg/playlists
+
 https://explainml-tutorial.github.io/neurips20
 https://explainml-tutorial.github.io/aaai21
 https://www.youtube.com/watch?v=K6-ujR_67eY
