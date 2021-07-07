@@ -1,5 +1,8 @@
 # Courses_DL_ML2
 
+# Research In CV, ML & AI
+https://www.youtube.com/channel/UCxJShZgxpowZy1xBlbpAnvw/playlists
+
 # Pedram Jahangiry
 https://www.youtube.com/channel/UCNDElcuuyX-2pSatVBDpJJQ/videos
 https://github.com/PJalgotrader/ML-USU-SP21/tree/main/Classes/Class%2019-%20Decision%20Tree%20(Python)
