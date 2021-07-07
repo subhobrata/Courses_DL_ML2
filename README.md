@@ -1,5 +1,8 @@
 # Courses_DL_ML2
 
+# Carl Mullins
+https://www.youtube.com/c/CarlMullins/videos
+
 # Research In CV, ML & AI
 https://www.youtube.com/channel/UCxJShZgxpowZy1xBlbpAnvw/playlists
 
