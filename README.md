@@ -1,5 +1,8 @@
 # Courses_DL_ML2
 
+# The High ROI Data Scientist
+https://www.youtube.com/channel/UCkYooZtwK_RJAd9SdL1jfeA
+
 # Carl Mullins
 https://www.youtube.com/c/CarlMullins/videos
 
