@@ -1,4 +1,5 @@
 # Courses_DL_ML2
+https://ki-campus.org/overview/course
 https://jovian.ai/learn/machine-learning-with-python-zero-to-gbms
 https://www.youtube.com/channel/UC2HL-mudeXmqYrBzTB4z66Q/playlists
 # Machine learning from sctratch
