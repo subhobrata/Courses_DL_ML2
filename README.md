@@ -1,6 +1,9 @@
 # Courses_DL_ML2
 https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 
+# Application of Tree based Models
+https://www.youtube.com/watch?v=ptjpLEgDSWw
+
 # The High ROI Data Scientist
 https://www.youtube.com/channel/UCkYooZtwK_RJAd9SdL1jfeA
 
