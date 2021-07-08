@@ -1,4 +1,6 @@
 # Courses_DL_ML2
+# Machine learning from sctratch
+https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E
 https://github.com/evidentlyai/evidently
 https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 
