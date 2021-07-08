@@ -1,4 +1,5 @@
 # Courses_DL_ML2
+https://jovian.ai/learn/machine-learning-with-python-zero-to-gbms
 https://www.youtube.com/channel/UC2HL-mudeXmqYrBzTB4z66Q/playlists
 # Machine learning from sctratch
 https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E
