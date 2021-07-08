@@ -1,4 +1,5 @@
 # Courses_DL_ML2
+https://github.com/evidentlyai/evidently
 https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 
 # Application of Tree based Models
