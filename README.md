@@ -1,5 +1,6 @@
 # Courses_DL_ML2
 
+https://www.python-graph-gallery.com/scatter-plot/
 https://huyenchip.com/ml-interviews-book/
 https://ki-campus.org/overview/course
 https://jovian.ai/learn/machine-learning-with-python-zero-to-gbms
