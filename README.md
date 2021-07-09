@@ -17,6 +17,13 @@ https://www.youtube.com/watch?v=ptjpLEgDSWw
 # The High ROI Data Scientist
 https://www.youtube.com/channel/UCkYooZtwK_RJAd9SdL1jfeA
 
+# CVPR 2021
+https://www.youtube.com/playlist?list=PLT6XqV0BKKrLEXxUqW7k88pldpdYV1ldF
+
+https://www.bigbioinformatics.org/copy-of-r-for-biologists
+https://github.com/bigbioinformatics/Biomedical-ML-with-Python/tree/main
+https://www.youtube.com/channel/UCWApflfx7nUcvvYMZ2SAbCQ
+
 # Carl Mullins
 https://www.youtube.com/c/CarlMullins/videos
 
