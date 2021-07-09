@@ -1,5 +1,7 @@
 # Courses_DL_ML2
 
+# Andreas Mueller
+https://www.youtube.com/c/AndreasMueller/playlists
 # Peter Prettenhofer - Gradient Boosted Regression Trees in scikit-learn
 https://www.youtube.com/watch?v=-5l3g91NZfQ
 https://www.python-graph-gallery.com/scatter-plot/
